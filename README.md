@@ -1,5 +1,5 @@
 # awesome-visual-language
-3D-VQA 
+3D-VQA  
 1.ScanQA: 3D Question Answering for Spatial Scene Understanding  
 2.SQA3D: SITUATED QUESTION ANSWERING IN 3D SCENES
 3.Generating Context-Aware Natural Answers for Questions in 3D Scenes  
